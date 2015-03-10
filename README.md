@@ -21,32 +21,25 @@ Include tiltscroll.js in your JavaScript bundle or add it to your HTML page like
 <script type="application/javascript" src="/path/to/tiltscroll.js"></script>
 ```
 
-To instantiate TiltScroll you only need to call the main function like this:
+TiltScroll instantiates automatically, don't worry fot that. In addition, you can override default options.
 
-```js
-	<script>
-		TiltScroll();
-	</script>
-```
-
-Or, if you're using jQuery:
-
-```js
-$(function() {
-	TiltScroll();
-});
-```
 
 ## Options ##
 
-You can change the tilt sensitivity that makes the scroll, by default -15, the posible values its 0 to -180.
+Change the tilt sensitivity that makes the scroll, by default -15, the posible values its 0 to -180.
 
 ```js
-	<script>
-		TiltScroll({
-			deviceSense: -30
-		});
-	</script>
+TiltScroll({
+	deviceSense: -30
+});
+```
+
+Or change the scroll duration time in miliseconds:
+
+```js
+TiltScroll({
+	scrollDuration: 5500
+});
 ```
 
 
