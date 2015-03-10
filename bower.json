@@ -1,0 +1,11 @@
+{
+  "name": "tiltscroll",
+  "main": "lib/tiltscroll.js",
+  "ignore": [
+    "**/.*",
+    "component.json",
+    "package.json",
+    "Makefile",
+    "examples"
+  ]
+}

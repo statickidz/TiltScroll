@@ -1,0 +1,37 @@
+{
+  "name": "tiltscroll",
+  "version": "1.0.0",
+  "description": "Scroll webpage to top on device tilt.",
+  "maintainers": [
+    {
+      "name": "Adrián Barrio Andrés",
+      "email": "statickidz@gmail.com",
+      "url": "https://statickidz.com"
+    }
+  ],
+  "author": {
+    "name": "Adrián Barrio Andrés",
+    "email": "statickidz@gmail.com",
+    "url": "https://statickidz.com"
+  },
+  "main": "lib/tiltscroll.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/statickidz/TiltScroll.git"
+  },
+  "keywords": [
+    "tiltscroll",
+    "mobile",
+    "touch",
+    "tap",
+    "click",
+    "delay"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "homepage": "https://github.com/statickidz/tiltscroll"
+}

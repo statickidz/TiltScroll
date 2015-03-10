@@ -1,0 +1,14 @@
+{
+	"name": "tiltscroll",
+	"repo": "statickidz/tiltscroll",
+	"description": "Scroll webpage to top on device tilt",
+	"version": "1.0.0",
+	"main": "lib/tiltscroll.js",
+	"scripts": [
+		"lib/tiltscroll.js"
+	],
+	"ignore": [
+		"examples/"
+	],
+	"license": "MIT"
+}
