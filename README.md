@@ -23,7 +23,6 @@ Include tiltscroll.js in your JavaScript bundle or add it to your HTML page like
 
 TiltScroll instantiates automatically, don't worry fot that. In addition, you can override default options.
 
-
 ## Options ##
 
 Change the tilt sensitivity that makes the scroll, by default -15, the posible values its 0 to -180.
