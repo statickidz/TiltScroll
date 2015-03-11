@@ -41,6 +41,9 @@ TiltScroll({
 });
 ```
 
+## Live Demo ##
+
+You can test this working [here](https://statickidz.com).
 
 ## Credits and collaboration ##
 
