@@ -1,5 +1,7 @@
 # TiltScroll #
 
+![TiltScroll Example](http://img.imgur.com/YHFtRkC.gif "")
+
 TiltScroll is a simple, easy-to-use library to make your website sensitive event tilting the device and automatically move up.
 
 TiltScroll is developed by [StaticKidz](https://statickidz.com/).
